@@ -14,7 +14,7 @@ export ZMQ_MESSAGING_PROTOCOL="TCP" # TCP, INTER_PROCESS, SHARED_MEMORY
 #export IP_CAN_ADDR="127.0.0.1"
 
 export SIMULATION="1"
-export FINGERPRINT="AUDI A3 3RD GEN"
+export FINGERPRINT="AUDI A3 3RD GENNNNNOOK"
 
 ## android specific ##
 export USE_SNPE="1" # only works for snapdragon devices.
